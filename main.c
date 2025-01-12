@@ -96,5 +96,5 @@ int main(){
     free(matris);
     free(yedek);
 	
-	
+	return 0;
 	}
